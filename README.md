@@ -28,3 +28,7 @@ filename will be your subdomain name, so `bascht.yaml` will be available at [bas
     […]
 
 --
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/timoschilling/hasbeen.in/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
